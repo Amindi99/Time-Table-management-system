@@ -1,0 +1,16 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Amindi\Desktop\Application\TimeTableManagementSystem.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Amindi\Desktop\Application\.
+Java min ver:	
+Java max ver:	
+Bundled JRE(s):	jre
+Check launcher:	C:\Users\Amindi\Desktop\Application\jre\bin\javaw.exe (OK)
+Main class:	main.Main
+Info:		Classpath not defined.
+Launcher:	C:\Users\Amindi\Desktop\Application\jre\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Amindi\Desktop\Application\TimeTableManagementSystem.exe" main.Main
+Args length:	88/32768 chars
+Exit code:	0
